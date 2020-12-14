@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/jstemmer/go-junit-report/parser"
+	"github.com/simonswine/go-junit-report/parser"
 )
 
 const testStart = "=== RUN   "

@@ -2,6 +2,4 @@ module github.com/simonswine/go-github-action-report
 
 go 1.13
 
-replace github.com/jstemmer/go-junit-report => github.com/simonswine/go-junit-report v0.9.2-0.20201211170713-95f14730029e
-
-require github.com/jstemmer/go-junit-report v0.0.0-00010101000000-000000000000
+require github.com/simonswine/go-junit-report v0.9.2-0.20201214123018-1d54935ce18a
